@@ -9,7 +9,7 @@ public class Hello {
 	
 //	快捷键:  
 	 //  alt+/  代码自动关联
-	
+	 //ctrl+/ 完善代码
 	//main +  alt+/
 	public static void main(String[] args) {
 		// syso + alt+/
